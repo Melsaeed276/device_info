@@ -7,7 +7,7 @@
 import 'dart:async';
 import 'dart:developer' as developer;
 
-import 'package:device_info_plus/device_info_plus.dart';
+import 'package:device_info/device_info.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

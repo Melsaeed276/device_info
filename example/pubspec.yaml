@@ -1,10 +1,11 @@
-name: device_info_plus_example
-description: Demonstrates how to use the device_info_plus plugin.
+name: device_info_example
+description: Demonstrates how to use the device_info plugin.
 
 dependencies:
   flutter:
     sdk: flutter
-  device_info_plus: ^12.4.0
+  device_info:
+    path: ../
 
 dev_dependencies:
   flutter_driver:

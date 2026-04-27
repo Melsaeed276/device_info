@@ -1,7 +1,7 @@
 @TestOn('linux')
 library;
 
-import 'package:device_info_plus/src/device_info_plus_linux.dart';
+import 'package:device_info/src/device_info_linux.dart';
 import 'package:device_info_plus_platform_interface/device_info_plus_platform_interface.dart';
 import 'package:file/memory.dart';
 import 'package:flutter_test/flutter_test.dart';

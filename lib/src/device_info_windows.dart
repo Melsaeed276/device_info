@@ -1,4 +1,4 @@
-/// The Windows implementation of `device_info_plus`.
+/// The Windows implementation of `device_info`.
 library;
 
 import 'dart:ffi';

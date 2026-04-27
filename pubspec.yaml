@@ -1,4 +1,4 @@
-name: device_info_plus
+name: device_info
 description: A Flutter plugin to get device information.
 version: 12.4.1
 homepage: https://github.com/fluttercommunity/plus-device-info
@@ -21,7 +21,7 @@ flutter:
         dartPluginClass: DeviceInfoPlusLinuxPlugin
       web:
         pluginClass: DeviceInfoPlusWebPlugin
-        fileName: src/device_info_plus_web.dart
+        fileName: src/device_info_web.dart
       macos:
         pluginClass: DeviceInfoPlusMacosPlugin
       windows:
