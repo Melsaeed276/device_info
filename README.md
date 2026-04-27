@@ -1,4 +1,4 @@
-# axdigital_device_info_plus
+# device_info_plus
 
 Fork of [device_info_plus](https://pub.dev/packages/device_info_plus) with Xcode 26+ compatibility fix.
 
@@ -33,7 +33,7 @@ Get current device information from within the Flutter application.
 ## Usage
 
 ```dart
-import 'package:axdigital_device_info_plus/axdigital_device_info_plus.dart';
+import 'package:device_info_plus/device_info_plus.dart';
 
 final deviceInfo = DeviceInfoPlugin();
 final info = await deviceInfo.getDeviceInfo();

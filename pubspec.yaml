@@ -1,9 +1,9 @@
-name: axdigital_device_info_plus
-description: Fork of device_info_plus with Xcode 26+ compatibility fix. Provides detailed device information.
+name: device_info_plus
+description: A Flutter plugin to get device information.
 version: 12.4.1
-homepage: https://github.com/your-org/axdigital_device_info_plus
-repository: https://github.com/your-org/axdigital_device_info_plus
-issue_tracker: https://github.com/your-org/axdigital_device_info_plus/issues
+homepage: https://github.com/fluttercommunity/plus-device-info
+repository: https://github.com/fluttercommunity/plus-device-info
+issue_tracker: https://github.com/fluttercommunity/plus-device-info/issues
 topics:
   - device
   - information
