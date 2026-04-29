@@ -1,6 +1,6 @@
-name: device_info_pro
+name: device_info_plus
 description: A Flutter plugin to get device information.
-version: 12.4.1
+version: 12.4.3
 homepage: https://github.com/fluttercommunity/plus-device-info
 repository: https://github.com/fluttercommunity/plus-device-info
 issue_tracker: https://github.com/fluttercommunity/plus-device-info/issues

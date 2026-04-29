@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'device_info'
+  s.name             = 'device_info_pro'
   s.version          = '12.4.1'
   s.summary          = 'Flutter Device Info Plus - Fork with Xcode 26+ compatibility fix (macOS)'
   s.description      = <<-DESC

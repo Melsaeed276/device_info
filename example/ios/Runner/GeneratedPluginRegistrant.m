@@ -6,10 +6,10 @@
 
 #import "GeneratedPluginRegistrant.h"
 
-#if __has_include(<device_info/FPPDeviceInfoPlusPlugin.h>)
-#import <device_info/FPPDeviceInfoPlusPlugin.h>
+#if __has_include(<device_info_pro/FPPDeviceInfoPlusPlugin.h>)
+#import <device_info_pro/FPPDeviceInfoPlusPlugin.h>
 #else
-@import device_info;
+@import device_info_pro;
 #endif
 
 #if __has_include(<integration_test/IntegrationTestPlugin.h>)

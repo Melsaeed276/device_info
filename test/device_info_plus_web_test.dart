@@ -1,7 +1,7 @@
 @TestOn('browser')
 library;
 
-import 'package:device_info/src/model/web_browser_info.dart';
+import 'package:device_info_pro/src/model/web_browser_info.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
